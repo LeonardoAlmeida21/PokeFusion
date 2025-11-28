@@ -19,4 +19,4 @@
 !models/**
 !train_lora.sh        
 !.env.example 
-!Experimental_UI
+!Experimental_UI.png
