@@ -1,0 +1,17 @@
+# Core AI & Training
+torch
+torchvision
+diffusers @ git+https://github.com/huggingface/diffusers.git
+transformers
+accelerate
+peft
+bitsandbytes
+
+# Data & Interface
+pandas
+streamlit
+python-dotenv
+Pillow
+
+# Google Gemini API
+google-generativeai

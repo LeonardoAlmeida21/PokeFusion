@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+# 2. keep .gitignore (obvs)
+!.gitignore
+
+!app.py
+!src/
+!src/**
+#allow only dataset csv and zip 
+!dataset/             
+!dataset/*.csv        
+!dataset/*.zip        
+!requirements.txt
+!README.md
+!utils/               
+!utils/**
+!models/
+!models/**
+!train_lora.sh        
+!.env.example 
