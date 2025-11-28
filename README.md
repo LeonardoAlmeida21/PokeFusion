@@ -9,8 +9,7 @@
 1. **Visual Brain (LoRA):** Uses Stable Diffusion (v1.5) fine-tuned on pixel-art sprites to generate the fusion image.  
 2. **Narrative Brain (LLM):** Uses Google Gemini API to analyze the parents’ biology and generate a new name, appropriate typing and Pokédex entry.
 
-![Demo Screenshot](assets/demo.png)  
-*(Note: You can add a screenshot of your app running here!)*
+![Demo Screenshot](Experimental_UI.png)  
 
 
 ## 🛠️ Installation & Setup
